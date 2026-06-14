@@ -1,0 +1,21 @@
+domain
+Teacher
+Doctor
+Engineer
+Lawyer
+Artist
+Scientist
+Nurse
+Pilot
+Farmer
+Developer
+Designer
+Writer
+Architect
+Chef
+Police Officer
+Accountant
+Psychologist
+Pharmacist
+Mechanic
+Electrician
