@@ -13,7 +13,7 @@ st.title("Study Notes Generator")
 topic=st.text_input("Enter Your Topic")
 file=st.file_uploader("Upload Your File") 
 Difficulty=st.slider("Difficulty Level",0,5,2)
-language=st.selectbox("Select Language",["Hindi","English"])
+language=st.selectbox("Select Language",["Hindi","English","Hinglish"])
 df=pd.read_csv("domain.txt")
 
 domain=st.selectbox("Select Domain",df.iloc[:,0].tolist())
